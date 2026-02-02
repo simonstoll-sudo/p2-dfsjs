@@ -80,7 +80,7 @@ p2-dfsjs/
 - **React 19** - UI library with latest features
 - **TypeScript** - Static type checking
 - **Vite 5** - Fast build tool and dev server
-- **Tailwind CSS 3.4** - Utility-first CSS framework
+- **Tailwind CSS 4** - Utility-first CSS framework
 - **React Router 6** - Client-side routing
 - **Chart.js** - Interactive data visualization
 - **ESLint** - Code quality and consistency
@@ -92,6 +92,7 @@ The application currently uses mock data to simulate Olympic Games statistics. T
 ## 🎨 Design
 
 The application features:
+
 - Clean, modern interface optimized for data visualization
 - Responsive layout adapting to all screen sizes
 - Interactive charts with hover effects
